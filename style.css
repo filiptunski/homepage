@@ -1,0 +1,20 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+body {
+    margin-top: 50px;
+    margin-bottom: 100px 0;
+    font-family: 'Cairo', sans-serif;
+}
+
+
+.body--grey {
+    background-color: rgb(241, 241, 241);
+}

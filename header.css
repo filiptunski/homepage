@@ -1,0 +1,24 @@
+.header {
+    text-align: center;
+    line-height: 80px;
+    padding: 5px;
+    background-color: rgb(255, 247, 236);
+}
+
+.header__h1 {
+    font-size: 40px;
+    line-height: 1.2;
+}
+
+.header__text {
+    font-size: 20px;
+    color: rgb(122, 90, 8);
+    line-height: 1.5
+}
+
+.header__image {
+        max-width: 100%;
+        height: auto;
+        filter: blur(1px);
+
+}
